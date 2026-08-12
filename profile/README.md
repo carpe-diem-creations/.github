@@ -88,8 +88,6 @@ Category: Health and Fitness
 
 Uncluttr is a minimalist launcher that turns any smartphone into a distraction free dumb phone. It replaces the default home screen with only essential apps, and built in blocking and dopamine detox tools help cut down on mindless scrolling. Setup is guided, so users can build an intentional, clutter free layout in minutes rather than fighting their settings menu. It is built for digital minimalists, students, and anyone who wants to reclaim time from their phone without giving up the phone itself.
 
-Available on: [App Store](https://apps.apple.com/us/app/id6738055130) | [Website](https://uncluttr.carpediemcreations.io)
-
 Category: Utilities
 
 ## 📺 TVGO
@@ -103,7 +101,5 @@ Category: Utilities
 ## ⚖️ Weighly
 
 Weighly estimates the weight of almost anything from a single photo using AI, no scale required. It identifies the object, estimates weight in grams, ounces, pounds, or kilograms, and surfaces dimensions, material info, and fun facts about what was scanned. A Guess the Grams mode turns estimating into a game with streaks and accuracy tracking, and object comparisons put results into everyday context. It is available in ten languages and built for anyone curious, shipping something, or just without a scale handy.
-
-Available on: [Google Play](https://play.google.com/store/apps/details?id=io.carpediemcreations.weightscales) | [Website](https://weighly.carpediemcreations.io)
 
 Category: Utilities
