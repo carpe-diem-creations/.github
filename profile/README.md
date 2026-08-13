@@ -1,12 +1,8 @@
 # Carpe Diem Creations
 
-<img src="logo.png" alt="Carpe Diem Creations logo" width="120" />
-
 **Carpe Diem Creations LLC**
 
-1111B S Governors Ave #26418, Dover, DE 19904, USA
-
-Phone: +1 213-498-2890
+Delaware, USA
 
 [Email](mailto:hello@carpediemcreations.io) . [Website](https://carpediemcreations.io) . [App Store](https://apps.apple.com/us/developer/carpe-diem-creations/id1838680076) . [Google Play](https://play.google.com/store/apps/dev?id=6424046307413891543)
 
